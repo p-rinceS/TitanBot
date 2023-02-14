@@ -1,5 +1,8 @@
+Bot for Titans
 
+Plans:
 
-Titan Bot to test Slash Commands for a community server.
+* KD Database Storing (Still thinking if writing to file or use google cloud db)
+Time Database
 
-february 2023
+* Clanware Group Check w/ their api access
